@@ -1,0 +1,42 @@
+{
+    "basics": {
+        "name": "Ayush",
+        "label": "Computer Science enthusiast",
+        "email": "ayushmaurya.personal@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "x_title": "Hey, I'm",
+        "job": "CS graduate",
+        "description": "Hey, I'm Ayush, a Computer Science student",
+        "summary": "based in Bremen, Germany.",
+        "keywords": "personal,website,portfolio,template,kit,computer,webapp",
+        "url": "https://zekst.github.io",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "",
+            "country": "India",
+            "countryCode": "IND",
+            "region": "Varanasi"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "ayushmaurya.personal@gmail.com",
+                "url": "mailto:ayushmaurya.personal@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Ayush Maurya",
+                "url": "https://www.linkedin.com/in/ayush-maurya-499899174/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "zekst",
+                "url": "https://github.com/zekst",
+                "x_icon": "fab fa-github"
+            }
+        ]
+    }
+}

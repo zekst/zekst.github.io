@@ -1,1 +1,3 @@
-This is the portfolio of mine and this is crap.
+Credits: Jo LienHoop.
+
+Deleted just some of the stuffs nothing else.
